@@ -10,7 +10,7 @@ There are many tools available for mobile developers, and the first division to 
 ### How to Use This Guide
 Here, we will focus primarily on native mobile development tools. This is a beginner-friendly list of curated resources and tips for aspiring engineers in both iOS and Android. More advanced developers can still take advantage of this list as a way to organize a variety of the resources available (and are more than welcome to contribute).
 
-Where other lists tend to focus primarily on one platform or the other, this guide aims to reconcile the similarities and differences between both. Native cross-platform development is a powerful alternative to hybrid development, but it can be daunting to learn the nuances of both platforms, especially for beginners.
+Where other lists tend to focus primarily on one platform or the other, this guide aims to reconcile the similarities and differences between both. Native cross-platform development is a powerful alternative to hybrid development, but it can be daunting to learn the nuances of both platforms, especially for beginners. There are a lot of resources in this guide, but it is not meant to be consumed all at once. As you continue through your journey to become a better engineer, you can use this guide as a reference for resources as you encounter different problems to tackle along the way.
 
 ### Android
 
@@ -21,11 +21,15 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [Official Android Style Guide for Kotlin](https://developer.android.com/kotlin/style-guide)
 * [Ray Wenderlich Style Guide for Kotlin](https://github.com/raywenderlich/kotlin-style-guide)
 * [Google Codelabs for Android](https://codelabs.developers.google.com/?cat=Android)
+* [Android Developer Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
 
 #### Tools
 * [Dagger 2](https://dagger.dev) (Dependency injection framework for Java and Android)
+* [Gson](https://github.com/google/gson)
 * [LeakCanary](https://square.github.io/leakcanary/) (Memory leak detection and analysis for Android apps)
 * [OkHttp](https://square.github.io/okhttp/) (Client for making HTTP requests in Android)
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+* [RxJava](https://github.com/ReactiveX/RxAndroid)
 
 #### Podcasts
 * [Fragmented](https://fragmentedpodcast.com/category/episodes/)
@@ -40,10 +44,13 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [Google Style Guide for Swift](https://google.github.io/swift/)
 * [Ray Wenderlich Style Guide for Swift](https://github.com/raywenderlich/swift-style-guide)
 * [Xcode Shortcuts](https://github.com/roblack/xCodeShortcuts)
+* [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 
 #### Tools
+* [Alamofire](https://github.com/Alamofire/Alamofire) (Library for making HTTP network requests in iOS)
 * [Build Time Analyzer for Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) (macOS tool to analyze Xcode project build times)
 * [fastlane](https://fastlane.tools)
+* [RxSwift](https://github.com/ReactiveX/RxSwift)
 * [Swiftify](https://swiftify.com) (Auto-converter from Objective-C to Swift)
 * [SwiftLint](https://github.com/realm/SwiftLint) (Linting tool for Swift files in Xcode)
 
@@ -53,13 +60,14 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 
 #### Podcasts
 * [iOS Dev Discussions - Sean Allen](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395)
+* [More Than Just Code](https://mtjc.fireside.fm)
 * [Swift by Sundell Podcast](https://www.swiftbysundell.com/podcast/)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 * [The iPhreaks Show](https://devchat.tv/iphreaks/)
 
-### Miscellaneous
+### Considerations for Mobile Developers
 
-#### Essential Foundations for Mobile Developers
+#### Essential Foundational Concepts
 * Types of Views and Layouts
 * Application Lifecycle
 * Application Navigation
@@ -69,16 +77,24 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * Network Requests
 * Integration of Third-Party Libraries
 
-#### Questions to Think About as a Mobile Developer
+#### Questions to Think About
 * What problems does my app attempt to solve?
 * How can I best maintain parity between my Android and iOS versions?
 * How can I best align with the native design guidelines specific to each platform?
-* Which SDK versions should my app target?
+* What range of devices and OS versions should my app target?
+* What measures am I taking to prevent fatal crashes in my app?
+* How am I ensuring that my app is the least intensive on battery life as it can be?
+* How am I accounting for situations of low or no network connectivity?
+
+### Miscellaneous Resources
 
 #### Cross-Platform Resources
 * [Lyft Mobile Podcast](https://podcasts.apple.com/us/podcast/lyft-mobile/id1453587931)
 * [Square Developer YouTube Channel](https://www.youtube.com/squaredev)
 * [Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/) (Side-by-side comparison between Swift and Kotlin syntax)
+
+#### Networking
+* [Postman](https://www.getpostman.com)
 
 #### Version Control
 * [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
