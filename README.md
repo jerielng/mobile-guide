@@ -1,7 +1,7 @@
 ## Cross-Platform Mobile Guide for Native iOS & Android Developers
 
 ### Overview of Mobile Development
-Think about your smartphone. It wasn't too long ago that the smartphone market was only emerging. Before, we had to hop onto a laptop or dekstop just to do a quick Google search, and for some of us, this made up even a significant portion of our lifetime. Now everyone is carrying a personalized digital Swiss Army knife in their own pocket. These days, the average person no longer has need to carry around a flashlight or a camera. And the most exciting part about it all is that you, as a mobile software engineer, can develop the skillset to build the apps that go on these devices.
+Think about your smartphone. It wasn't too long ago that the smartphone market was only emerging. Before, we had to hop onto a laptop or desktop just to do a quick Google search, and for some of us, this made up even a significant portion of our lifetime. Now everyone is carrying a personalized digital Swiss Army knife in their own pocket. These days, the average person no longer has need to carry around a flashlight or a camera. And the most exciting part about it all is that you, as a mobile software engineer, can develop the skillset to build the apps that go on these devices.
 
 Mobile development is an interesting subfield of programming, as it calls on you to think about the visual design of the front-end client you are building, while bearing in mind the restrictions of the hardware you're building it for--from battery life to network connectivity.
 
@@ -25,11 +25,14 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 
 #### Tools
 * [Dagger 2](https://dagger.dev) (Dependency injection framework for Java and Android)
-* [Gson](https://github.com/google/gson)
+* [Gson](https://github.com/google/gson) (Tool for converting serializing and deserializing JSON strings into objects)
 * [LeakCanary](https://square.github.io/leakcanary/) (Memory leak detection and analysis for Android apps)
 * [OkHttp](https://square.github.io/okhttp/) (Client for making HTTP requests in Android)
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-* [RxJava](https://github.com/ReactiveX/RxAndroid)
+* [RxJava](https://github.com/ReactiveX/RxJava)
+
+#### Blogs
+* [ProAndroidDev](https://proandroiddev.com)
 
 #### Podcasts
 * [Fragmented](https://fragmentedpodcast.com/category/episodes/)
@@ -49,13 +52,13 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 #### Tools
 * [Alamofire](https://github.com/Alamofire/Alamofire) (Library for making HTTP network requests in iOS)
 * [Build Time Analyzer for Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) (macOS tool to analyze Xcode project build times)
-* [fastlane](https://fastlane.tools)
 * [RxSwift](https://github.com/ReactiveX/RxSwift)
 * [Swiftify](https://swiftify.com) (Auto-converter from Objective-C to Swift)
 * [SwiftLint](https://github.com/realm/SwiftLint) (Linting tool for Swift files in Xcode)
 
 #### Blogs
 * [Hacking with Swift](https://www.hackingwithswift.com/articles)
+* [NSHipster](https://nshipster.com)
 * [Swift by Sundell Blog](https://www.swiftbysundell.com/articles/)
 
 #### Podcasts
@@ -67,24 +70,50 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 
 ### Considerations for Mobile Developers
 
-#### Essential Foundational Concepts
+#### I. Essential Foundational Concepts
 * Types of Views and Layouts
+    * How to implement them
+    * When to use one over another
 * Application Lifecycle
 * Application Navigation
 * Dynamic UI Management
 * JSON Parsing
 * Data Persistence
+    * SharedPreferences/NSUserDefaults
+    * Local device database
+    * Cloud database
 * Network Requests
 * Integration of Third-Party Libraries
 
-#### Questions to Think About
+#### II. Common Mobile Architectures
+* MVC (Model-View-Controller)
+* MVP (Model-View-Presenter)
+* MVVM (Model-View-ViewModel)
+* VIPER (View, Interactor, Presenter, Entity, Router)
+* MVI (Model-View-Intent)
+
+#### III. Questions to Think About
+##### Product
 * What problems does my app attempt to solve?
+
+##### UI/UX
 * How can I best maintain parity between my Android and iOS versions?
 * How can I best align with the native design guidelines specific to each platform?
+* How does my UI appear on different screen sizes?
+* What am I doing to make my app accessible for all users?
+* What methods should I use to implement my UI?
+    * XML/Interface Builder
+    * Programmatic
+    * Declarative (Jetpack Compose/SwiftUI)
+
+##### Technical
 * What range of devices and OS versions should my app target?
-* What measures am I taking to prevent fatal crashes in my app?
 * How am I ensuring that my app is the least intensive on battery life as it can be?
 * How am I accounting for situations of low or no network connectivity?
+* How am I accounting for user data privacy?
+* What measures am I taking to prevent fatal crashes in my app?
+* How should I structure my code architecture?
+* Should I retrieve my app's data from local device storage or from a server?
 
 ### Miscellaneous Resources
 
@@ -93,8 +122,9 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [Square Developer YouTube Channel](https://www.youtube.com/squaredev)
 * [Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/) (Side-by-side comparison between Swift and Kotlin syntax)
 
-#### Networking
-* [Postman](https://www.getpostman.com)
+#### Tools
+* [fastlane](https://fastlane.tools) (Build and release automation tool for mobile apps)
+* [Postman](https://www.getpostman.com) (GUI client for simulating API requests independent of code)
 
 #### Version Control
 * [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
