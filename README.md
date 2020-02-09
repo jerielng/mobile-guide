@@ -23,12 +23,14 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [Google Codelabs for Android](https://codelabs.developers.google.com/?cat=Android)
 * [Android Developer Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
 * [Overview of Dependency Injection](https://developer.android.com/training/dependency-injection/#kotlin)
+* [Must Have Libraries](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries) (Detailed guide to using essential third-party Android libraries)
 
 #### Tools
 * [Dagger 2](https://dagger.dev) (Dependency injection framework for Java and Android)
 * [Gson](https://github.com/google/gson) (Tool for converting serializing and deserializing JSON strings into objects)
 * [LeakCanary](https://square.github.io/leakcanary/) (Memory leak detection and analysis for Android apps)
 * [OkHttp](https://square.github.io/okhttp/) (Client for making HTTP requests in Android)
+* [Parcelabler](http://www.parcelabler.com) (Web tool for generating Parcelable objects)
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 * [RxJava](https://github.com/ReactiveX/RxJava)
 
