@@ -22,6 +22,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [Ray Wenderlich Style Guide for Kotlin](https://github.com/raywenderlich/kotlin-style-guide)
 * [Google Codelabs for Android](https://codelabs.developers.google.com/?cat=Android)
 * [Android Developer Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
+* [Overview of Dependency Injection](https://developer.android.com/training/dependency-injection/#kotlin)
 
 #### Tools
 * [Dagger 2](https://dagger.dev) (Dependency injection framework for Java and Android)
@@ -32,6 +33,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [RxJava](https://github.com/ReactiveX/RxJava)
 
 #### Blogs
+* [Android Developers Blog](https://android-developers.googleblog.com)
 * [ProAndroidDev](https://proandroiddev.com)
 
 #### Podcasts
@@ -48,6 +50,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [Ray Wenderlich Style Guide for Swift](https://github.com/raywenderlich/swift-style-guide)
 * [Xcode Shortcuts](https://github.com/roblack/xCodeShortcuts)
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
+* [Swift Evolution](https://github.com/apple/swift-evolution) (Document of history and proposals for enhancing and evolving the Swift programming language)
 
 #### Tools
 * [Alamofire](https://github.com/Alamofire/Alamofire) (Library for making HTTP network requests in iOS)
@@ -125,6 +128,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 #### Tools
 * [fastlane](https://fastlane.tools) (Build and release automation tool for mobile apps)
 * [Postman](https://www.getpostman.com) (GUI client for simulating API requests independent of code)
+* [Postwoman](https://postwoman.io) (Web client that with the same functionality that Postman provides)
 
 #### Version Control
 * [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
