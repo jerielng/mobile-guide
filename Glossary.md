@@ -17,6 +17,7 @@ This is not an exhaustive list, but it’s some of the more common terms you wil
 |delegate||
 |dependency injection||
 |fragment||
+|functional programming||
 |instrumented testing||
 |intent||
 |lifecycle||

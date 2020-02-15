@@ -27,15 +27,18 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 
 #### Tools
 * [Dagger 2](https://dagger.dev) (Dependency injection framework for Java and Android)
+* [Glide](https://github.com/bumptech/glide) (Image loading and displaying library)
 * [Gson](https://github.com/google/gson) (Tool for converting serializing and deserializing JSON strings into objects)
 * [LeakCanary](https://square.github.io/leakcanary/) (Memory leak detection and analysis for Android apps)
 * [OkHttp](https://square.github.io/okhttp/) (Client for making HTTP requests in Android)
 * [Parcelabler](http://www.parcelabler.com) (Web tool for generating Parcelable objects)
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-* [RxJava](https://github.com/ReactiveX/RxJava)
+* [Robolectric](https://github.com/robolectric/robolectric) (Simulates instrumented environment within Android unit tests)
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid) (Layer built on top of RxJava for Android-specific components)
+* [RxJava](https://github.com/ReactiveX/RxJava) (Asynchronous programming through observable streams for JVM)
 
 #### Blogs
 * [Android Developers Blog](https://android-developers.googleblog.com)
+* [Jake Wharton's Blog](https://jakewharton.com/blog/)
 * [ProAndroidDev](https://proandroiddev.com)
 
 #### Podcasts
@@ -52,19 +55,24 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [Ray Wenderlich Style Guide for Swift](https://github.com/raywenderlich/swift-style-guide)
 * [Xcode Shortcuts](https://github.com/roblack/xCodeShortcuts)
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
+* [Apple Developer App](https://apps.apple.com/us/app/apple-developer/id640199958)
 * [Swift Evolution](https://github.com/apple/swift-evolution) (Document of history and proposals for enhancing and evolving the Swift programming language)
 
 #### Tools
 * [Alamofire](https://github.com/Alamofire/Alamofire) (Library for making HTTP network requests in iOS)
 * [Build Time Analyzer for Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) (macOS tool to analyze Xcode project build times)
-* [RxSwift](https://github.com/ReactiveX/RxSwift)
+* [Control Room](https://github.com/twostraws/ControlRoom) (GUI tool built on top of ```simctl``` to control Simulator)
+* [RxSwift](https://github.com/ReactiveX/RxSwift) (Asynchronous programming through observable streams, see also: [Combine](https://developer.apple.com/documentation/combine))
 * [Swiftify](https://swiftify.com) (Auto-converter from Objective-C to Swift)
 * [SwiftLint](https://github.com/realm/SwiftLint) (Linting tool for Swift files in Xcode)
+* [Timelane](http://timelane.tools) (Xcode Instrument to visually profile tasks from Combine and RxSwift)
 
 #### Blogs
 * [Hacking with Swift](https://www.hackingwithswift.com/articles)
 * [NSHipster](https://nshipster.com)
+* [SwiftLee](https://www.avanderlee.com)
 * [Swift by Sundell Blog](https://www.swiftbysundell.com/articles/)
+* [Use Your Loaf](https://useyourloaf.com)
 
 #### Podcasts
 * [iOS Dev Discussions - Sean Allen](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395)
