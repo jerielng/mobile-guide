@@ -21,6 +21,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [Official Android Style Guide for Kotlin](https://developer.android.com/kotlin/style-guide)
 * [Ray Wenderlich Style Guide for Kotlin](https://github.com/raywenderlich/kotlin-style-guide)
 * [Google Codelabs for Android](https://codelabs.developers.google.com/?cat=Android)
+* [Google Developers Community](https://developers.google.com)
 * [Android Developer Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
 * [Overview of Dependency Injection](https://developer.android.com/training/dependency-injection/#kotlin)
 * [Must Have Libraries](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries) (Detailed guide to using essential third-party Android libraries)
@@ -43,6 +44,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 
 #### Podcasts
 * [Fragmented](https://fragmentedpodcast.com/category/episodes/)
+* [Now in Android](https://open.spotify.com/show/3alx5rvDZgumqA35EWZl18?si=mTGsZbaqQc6P0dMW26_3QA)
 * [Talking Kotlin](https://talkingkotlin.com/posts/)
 
 ### iOS
@@ -134,6 +136,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [Lyft Mobile Podcast](https://podcasts.apple.com/us/podcast/lyft-mobile/id1453587931)
 * [Square Developer YouTube Channel](https://www.youtube.com/squaredev)
 * [Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/) (Side-by-side comparison between Swift and Kotlin syntax)
+* [The Polyglot Developer Podcast](https://podcasts.apple.com/us/podcast/the-polyglot-developer-podcast/id1070975158)
 
 #### Tools
 * [fastlane](https://fastlane.tools) (Build and release automation tool for mobile apps)
