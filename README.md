@@ -29,7 +29,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 #### Tools
 * [Dagger 2](https://dagger.dev) (Dependency injection framework for Java and Android)
 * [Glide](https://github.com/bumptech/glide) (Image loading and displaying library)
-* [Gson](https://github.com/google/gson) (Tool for converting serializing and deserializing JSON strings into objects)
+* [Gson](https://github.com/google/gson) (Tool for serializing and deserializing JSON strings into objects)
 * [LeakCanary](https://square.github.io/leakcanary/) (Memory leak detection and analysis for Android apps)
 * [OkHttp](https://square.github.io/okhttp/) (Client for making HTTP requests in Android)
 * [Parcelabler](http://www.parcelabler.com) (Web tool for generating Parcelable objects)
@@ -106,6 +106,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * MVVM (Model-View-ViewModel)
 * VIPER (View, Interactor, Presenter, Entity, Router)
 * MVI (Model-View-Intent)
+* [RIBs (Router-Interactor-Builder)](https://github.com/uber/RIBs/wiki)
 
 #### III. Questions to Think About
 ##### Product
