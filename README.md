@@ -79,6 +79,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 #### Podcasts
 * [iOS Dev Discussions - Sean Allen](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395)
 * [More Than Just Code](https://mtjc.fireside.fm)
+* [Swiftly Speaking](https://podcasts.apple.com/us/podcast/swiftly-speaking/id1505697997)
 * [Swift by Sundell Podcast](https://www.swiftbysundell.com/podcast/)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 * [The iPhreaks Show](https://devchat.tv/iphreaks/)
