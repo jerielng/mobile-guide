@@ -15,27 +15,31 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 ### Android
 
 #### References
-* [Official Developer Documentation](https://developer.android.com/docs)
-* [Material Design](https://material.io/design/introduction/#principles) (Visual design guidelines to adhere to as an Android developer)
-* [Google Style Guide for Java](https://google.github.io/styleguide/javaguide.html)
-* [Official Android Style Guide for Kotlin](https://developer.android.com/kotlin/style-guide)
-* [Ray Wenderlich Style Guide for Kotlin](https://github.com/raywenderlich/kotlin-style-guide)
-* [Google Codelabs for Android](https://codelabs.developers.google.com/?cat=Android)
-* [Google Developers Community](https://developers.google.com)
-* [Android Developer Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
-* [Overview of Dependency Injection](https://developer.android.com/training/dependency-injection/#kotlin)
-* [Must Have Libraries](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries) (Detailed guide to using essential third-party Android libraries)
+|Name|Description|
+|:--|:--|
+|[Official Developer Documentation](https://developer.android.com/docs)|
+|[Material Design](https://material.io/design/introduction/#principles)|Visual design guidelines to adhere to as an Android developer|
+|[Google Style Guide for Java](https://google.github.io/styleguide/javaguide.html)|
+|[Official Android Style Guide for Kotlin](https://developer.android.com/kotlin/style-guide)|
+|[Ray Wenderlich Style Guide for Kotlin](https://github.com/raywenderlich/kotlin-style-guide)|
+|[Google Codelabs for Android](https://codelabs.developers.google.com/?cat=Android)|
+|[Google Developers Community](https://developers.google.com)|
+|[Android Developer Roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)|
+|[Overview of Dependency Injection](https://developer.android.com/training/dependency-injection/#kotlin)|
+|[Must Have Libraries](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries)|Detailed guide to using essential third-party Android libraries|
 
 #### Tools
-* [Dagger 2](https://dagger.dev) (Dependency injection framework for Java and Android)
-* [Glide](https://github.com/bumptech/glide) (Image loading and displaying library)
-* [Gson](https://github.com/google/gson) (Tool for serializing and deserializing JSON strings into objects)
-* [LeakCanary](https://square.github.io/leakcanary/) (Memory leak detection and analysis for Android apps)
-* [OkHttp](https://square.github.io/okhttp/) (Client for making HTTP requests in Android)
-* [Parcelabler](http://www.parcelabler.com) (Web tool for generating Parcelable objects)
-* [Robolectric](https://github.com/robolectric/robolectric) (Simulates instrumented environment within Android unit tests)
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) (Layer built on top of RxJava for Android-specific components)
-* [RxJava](https://github.com/ReactiveX/RxJava) (Asynchronous programming through observable streams for JVM)
+|Name|Description|
+|:--|:--|
+|[Dagger 2](https://dagger.dev)|Dependency injection framework for Java and Android|
+|[Glide](https://github.com/bumptech/glide)|Image loading and displaying library|
+|[Gson](https://github.com/google/gson)|Tool for serializing and deserializing JSON strings into objects|
+|[LeakCanary](https://square.github.io/leakcanary/)|Memory leak detection and analysis for Android apps|
+|[OkHttp](https://square.github.io/okhttp/)|Client for making HTTP requests in Android|
+|[Parcelabler](http://www.parcelabler.com)|Web tool for generating Parcelable objects|
+|[Robolectric](https://github.com/robolectric/robolectric)|Simulates instrumented environment within Android unit tests|
+|[RxAndroid](https://github.com/ReactiveX/RxAndroid)|Layer built on top of RxJava for Android-specific components|
+|[RxJava](https://github.com/ReactiveX/RxJava)|Asynchronous programming through observable streams for JVM|
 
 #### Blogs
 * [Android Developers Blog](https://android-developers.googleblog.com)
@@ -50,24 +54,28 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 ### iOS
 
 #### References
-* [Official Developer Documentation](https://developer.apple.com/documentation/)
-* [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) (Visual design guidelines to adhere to as an iOS developer)
-* [Google Style Guide for Objective-C](http://google.github.io/styleguide/objcguide.html)
-* [Google Style Guide for Swift](https://google.github.io/swift/)
-* [Ray Wenderlich Style Guide for Swift](https://github.com/raywenderlich/swift-style-guide)
-* [Xcode Shortcuts](https://github.com/roblack/xCodeShortcuts)
-* [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
-* [Apple Developer App](https://apps.apple.com/us/app/apple-developer/id640199958)
-* [Swift Evolution](https://github.com/apple/swift-evolution) (Document of history and proposals for enhancing and evolving the Swift programming language)
+|Name|Description|
+|:--|:--|
+|[Official Developer Documentation](https://developer.apple.com/documentation/)|
+|[Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)|Visual design guidelines to adhere to as an iOS developer|
+|[Google Style Guide for Objective-C](http://google.github.io/styleguide/objcguide.html)|
+|[Google Style Guide for Swift](https://google.github.io/swift/)|
+|[Ray Wenderlich Style Guide for Swift](https://github.com/raywenderlich/swift-style-guide)|
+|[Xcode Shortcuts](https://github.com/roblack/xCodeShortcuts)|
+|[iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)|
+|[Apple Developer App](https://apps.apple.com/us/app/apple-developer/id640199958)|
+|[Swift Evolution](https://github.com/apple/swift-evolution)|Document of history and proposals for enhancing and evolving the Swift programming language|
 
 #### Tools
-* [Alamofire](https://github.com/Alamofire/Alamofire) (Library for making HTTP network requests in iOS)
-* [Build Time Analyzer for Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) (macOS tool to analyze Xcode project build times)
-* [Control Room](https://github.com/twostraws/ControlRoom) (GUI tool built on top of ```simctl``` to control Simulator)
-* [RxSwift](https://github.com/ReactiveX/RxSwift) (Asynchronous programming through observable streams, see also: [Combine](https://developer.apple.com/documentation/combine))
-* [Swiftify](https://swiftify.com) (Auto-converter from Objective-C to Swift)
-* [SwiftLint](https://github.com/realm/SwiftLint) (Linting tool for Swift files in Xcode)
-* [Timelane](http://timelane.tools) (Xcode Instrument to visually profile tasks from Combine and RxSwift)
+|Name|Description|
+|:--|:--|
+|[Alamofire](https://github.com/Alamofire/Alamofire)|Library for making HTTP network requests in iOS|
+|[Build Time Analyzer for Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)|macOS tool to analyze Xcode project build times|
+|[Control Room](https://github.com/twostraws/ControlRoom)|GUI tool built on top of ```simctl``` to control Simulator|
+|[RxSwift](https://github.com/ReactiveX/RxSwift)|Asynchronous programming through observable streams, see also: [Combine](https://developer.apple.com/documentation/combine)|
+|[Swiftify](https://swiftify.com)|Auto-converter from Objective-C to Swift|
+|[SwiftLint](https://github.com/realm/SwiftLint)|Linting tool for Swift files in Xcode|
+|[Timelane](http://timelane.tools)|Xcode Instrument to visually profile tasks from Combine and RxSwift|
 
 #### Blogs
 * [Hacking with Swift](https://www.hackingwithswift.com/articles)
@@ -135,20 +143,23 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 ### Miscellaneous Resources
 
 #### Cross-Platform Resources
-* [Lyft Mobile Podcast](https://podcasts.apple.com/us/podcast/lyft-mobile/id1453587931)
-* [Square Developer YouTube Channel](https://www.youtube.com/squaredev)
-* [Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/) (Side-by-side comparison between Swift and Kotlin syntax)
-* [The Polyglot Developer Podcast](https://podcasts.apple.com/us/podcast/the-polyglot-developer-podcast/id1070975158)
+|Name|Description
+|:--|:--|
+|[Lyft Mobile Podcast](https://podcasts.apple.com/us/podcast/lyft-mobile/id1453587931)|
+|[Square Developer YouTube Channel](https://www.youtube.com/squaredev)|
+|[Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/)|Side-by-side comparison between Swift and Kotlin syntax|
+|[The Polyglot Developer Podcast](https://podcasts.apple.com/us/podcast/the-polyglot-developer-podcast/id1070975158)|
 
 #### Tools
-* [fastlane](https://fastlane.tools) (Build and release automation tool for mobile apps)
-* [Postman](https://www.getpostman.com) (GUI client for simulating API requests independent of code)
-* [Postwoman](https://postwoman.io) (Web client that with the same functionality that Postman provides)
+|Name|Description|
+|:--|:--|
+|[fastlane](https://fastlane.tools)|Build and release automation tool for mobile apps|
+|[Postman](https://www.getpostman.com)|GUI client for simulating API requests independent of code|
+|[Postwoman](https://postwoman.io)|Web client that with the same functionality that Postman provides|
 
 #### Version Control
-* [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
-* [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) (Helpful interactive GUI to practice Git)
-* Git GUIs
-    * [Fork](https://git-fork.com)
-    * [GitKraken](https://www.gitkraken.com/git-client)
-    * [Sourcetree](https://www.sourcetreeapp.com)
+|Name|Description|
+|:--|:--|
+|[GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)|
+|[Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)|Helpful interactive GUI to practice Git|
+|Git GUIs|[Fork](https://git-fork.com)<br>[GitKraken](https://www.gitkraken.com/git-client)<br>[Sourcetree](https://www.sourcetreeapp.com)|
