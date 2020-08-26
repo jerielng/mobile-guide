@@ -103,8 +103,10 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * Dynamic UI Management
 * JSON Parsing
 * Data Persistence
-    * SharedPreferences/NSUserDefaults
-    * Local device database
+    * Local
+        * SharedPreferences/NSUserDefaults
+        * Local device database
+        * On-device file storage
     * Cloud database
 * Network Requests
 * Integration of Third-Party Libraries
