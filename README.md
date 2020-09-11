@@ -147,6 +147,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 #### Cross-Platform Resources
 |Name|Description
 |:--|:--|
+|[Coffee + Coding Podcast](https://robj.me/coffeeandcoding/)|
 |[Lyft Mobile Podcast](https://podcasts.apple.com/us/podcast/lyft-mobile/id1453587931)|
 |[Square Developer YouTube Channel](https://www.youtube.com/squaredev)|
 |[Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/)|Side-by-side comparison between Swift and Kotlin syntax|
