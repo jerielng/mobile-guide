@@ -31,12 +31,13 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 #### Tools
 |Name|Description|
 |:--|:--|
-|[Dagger 2](https://dagger.dev)|Dependency injection framework for Java and Android|
+|[Dagger 2](https://dagger.dev)|Dependency injection framework for Java and Android, see also: [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)|
 |[Glide](https://github.com/bumptech/glide)|Image loading and displaying library|
 |[Gson](https://github.com/google/gson)|Tool for serializing and deserializing JSON strings into objects|
 |[LeakCanary](https://square.github.io/leakcanary/)|Memory leak detection and analysis for Android apps|
 |[OkHttp](https://square.github.io/okhttp/)|Client for making HTTP requests in Android|
 |[Parcelabler](http://www.parcelabler.com)|Web tool for generating Parcelable objects|
+|[Retrofit](https://square.github.io/retrofit/)|Wrapper for OkHttp for making HTTP requests|
 |[Robolectric](https://github.com/robolectric/robolectric)|Simulates instrumented environment within Android unit tests|
 |[RxAndroid](https://github.com/ReactiveX/RxAndroid)|Layer built on top of RxJava for Android-specific components|
 |[RxJava](https://github.com/ReactiveX/RxJava)|Asynchronous programming through observable streams for JVM|
@@ -152,6 +153,11 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 |[Square Developer YouTube Channel](https://www.youtube.com/squaredev)|
 |[Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/)|Side-by-side comparison between Swift and Kotlin syntax|
 |[The Polyglot Developer Podcast](https://podcasts.apple.com/us/podcast/the-polyglot-developer-podcast/id1070975158)|
+
+#### Design Resources
+|Name|Description
+|:--|:--|
+|[Design+Code](https://designcode.io)|Subscription-based website to learn design for programmers and code for designers|
 
 #### Tools
 |Name|Description|
