@@ -90,6 +90,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [More Than Just Code](https://mtjc.fireside.fm)
 * [Swiftly Speaking](https://podcasts.apple.com/us/podcast/swiftly-speaking/id1505697997)
 * [Swift by Sundell Podcast](https://www.swiftbysundell.com/podcast/)
+* [Swift Over Coffee](https://open.spotify.com/show/2vmugkTgqf7eJAESKLlveG?si=lGGqSmNVQ66KLb7_FqxOrg)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 * [The iPhreaks Show](https://devchat.tv/iphreaks/)
 
@@ -149,10 +150,13 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 |Name|Description
 |:--|:--|
 |[Coffee + Coding Podcast](https://robj.me/coffeeandcoding/)|
+|[Inside Facebook Mobile](https://open.spotify.com/show/1NlTm7OkZmcrOPfvlqlBMz)|
 |[Lyft Mobile Podcast](https://podcasts.apple.com/us/podcast/lyft-mobile/id1453587931)|
+|[Mobile DevOps is a thing!](https://open.spotify.com/show/1T7xhZIYqANaXu1UOKrBg8?si=D6zYIzMYR12_ZstED9Q_0g)|
 |[Square Developer YouTube Channel](https://www.youtube.com/squaredev)|
 |[Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/)|Side-by-side comparison between Swift and Kotlin syntax|
 |[The Polyglot Developer Podcast](https://podcasts.apple.com/us/podcast/the-polyglot-developer-podcast/id1070975158)|
+|[The raywenderlich.com Podcast](https://open.spotify.com/show/7FoclmfzgcWDDMSwpNurUi?si=cxq4ILDQR0GCR79t_qhE2w)|
 
 #### Design Resources
 |Name|Description
