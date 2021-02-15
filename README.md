@@ -86,13 +86,15 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 * [Use Your Loaf](https://useyourloaf.com)
 
 #### Podcasts
-* [iOS Dev Discussions - Sean Allen](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395)
+* [iOS Dev Discussions - Sean Allen](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395)*
 * [More Than Just Code](https://mtjc.fireside.fm)
-* [Swiftly Speaking](https://podcasts.apple.com/us/podcast/swiftly-speaking/id1505697997)
-* [Swift by Sundell Podcast](https://www.swiftbysundell.com/podcast/)
+* [Swiftly Speaking](https://podcasts.apple.com/us/podcast/swiftly-speaking/id1505697997)*
+* [Swift by Sundell Podcast](https://www.swiftbysundell.com/podcast/)*
 * [Swift Over Coffee](https://open.spotify.com/show/2vmugkTgqf7eJAESKLlveG?si=lGGqSmNVQ66KLb7_FqxOrg)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 * [The iPhreaks Show](https://devchat.tv/iphreaks/)
+
+\* Personal recommendations
 
 ### Considerations for Mobile Developers
 
