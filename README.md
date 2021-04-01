@@ -34,6 +34,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 |[Dagger 2](https://dagger.dev)|Dependency injection framework for Java and Android, see also: [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)|
 |[Glide](https://github.com/bumptech/glide)|Image loading and displaying library|
 |[Gson](https://github.com/google/gson)|Tool for serializing and deserializing JSON strings into objects|
+|[Koin](https://github.com/InsertKoinIO/koin)|Service locator for Android|
 |[LeakCanary](https://square.github.io/leakcanary/)|Memory leak detection and analysis for Android apps|
 |[OkHttp](https://square.github.io/okhttp/)|Client for making HTTP requests in Android|
 |[Parcelabler](http://www.parcelabler.com)|Web tool for generating Parcelable objects|
@@ -41,6 +42,9 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 |[Robolectric](https://github.com/robolectric/robolectric)|Simulates instrumented environment within Android unit tests|
 |[RxAndroid](https://github.com/ReactiveX/RxAndroid)|Layer built on top of RxJava for Android-specific components|
 |[RxJava](https://github.com/ReactiveX/RxJava)|Asynchronous programming through observable streams for JVM|
+
+##### A note about dependency injection
+You may have noticed tools like Dagger, Hilt, and Koin. As an Android developer, it is important to understand this common technique's significance in reducing code complexity. It is also helpful to note the distinction between a dependency injector and a service locator. For further information, refer to the [dependency injection article](https://developer.android.com/training/dependency-injection) in the Android documentation.
 
 #### Blogs
 * [Android Developers Blog](https://android-developers.googleblog.com)
@@ -73,6 +77,8 @@ Where other lists tend to focus primarily on one platform or the other, this gui
 |[Alamofire](https://github.com/Alamofire/Alamofire)|Library for making HTTP network requests in iOS|
 |[Build Time Analyzer for Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)|macOS tool to analyze Xcode project build times|
 |[Control Room](https://github.com/twostraws/ControlRoom)|GUI tool built on top of ```simctl``` to control Simulator|
+|[Quick](https://github.com/Quick/Quick)/[Nimble](https://github.com/Quick/Nimble)|Behavioral testing framework as an alternative to XCTest|
+|[Resolver](https://github.com/hmlongco/Resolver)|Dependency injection framework for iOS projects|
 |[RxSwift](https://github.com/ReactiveX/RxSwift)|Asynchronous programming through observable streams, see also: [Combine](https://developer.apple.com/documentation/combine)|
 |[Swiftify](https://swiftify.com)|Auto-converter from Objective-C to Swift|
 |[SwiftLint](https://github.com/realm/SwiftLint)|Linting tool for Swift files in Xcode|
