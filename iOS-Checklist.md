@@ -1,5 +1,5 @@
 ### Introduction
-Getting started with iOS programming? Here is a non-exhaustive checklist of some of the most common concepts and techniques you will likely encounter along the way. Think of this as a quick way to get up to speed with the idiomatic features of iOS development.
+Getting started with iOS programming? Here is a non-exhaustive checklist of some of the most common concepts and techniques you will likely encounter along the way. Think of this as a quick syllabus to get up to speed with the idiomatic features of iOS development.
 
 #### Swift
 * Nil safety
