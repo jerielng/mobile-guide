@@ -115,6 +115,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
    #### Cross-Platform Resources
    |Name|Description
    |:--|:--|
+   |[Code Passionately Podcast](https://open.spotify.com/show/3fikasGXrSCtzPDONsjPzt)|
    |[Coffee + Coding Podcast](https://robj.me/coffeeandcoding/)|
    |[Inside Facebook Mobile](https://open.spotify.com/show/1NlTm7OkZmcrOPfvlqlBMz)|
    |[Lyft Mobile Podcast](https://podcasts.apple.com/us/podcast/lyft-mobile/id1453587931)|
