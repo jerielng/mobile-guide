@@ -54,6 +54,7 @@ Where other lists tend to focus primarily on one platform or the other, this gui
    * [ProAndroidDev](https://proandroiddev.com)
 
    #### Podcasts
+   * [#AndroidDev Discussions](https://androiddevdiscussions.substack.com)
    * [Android Developers Backstage](https://adbackstage.libsyn.com)
    * [Fragmented](https://fragmentedpodcast.com/category/episodes/)
    * [Now in Android](https://open.spotify.com/show/3alx5rvDZgumqA35EWZl18?si=mTGsZbaqQc6P0dMW26_3QA)
@@ -98,7 +99,8 @@ Where other lists tend to focus primarily on one platform or the other, this gui
    * [Use Your Loaf](https://useyourloaf.com)
 
    #### Podcasts
-   * [iOS Dev Discussions - Sean Allen](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395)*
+   * [Code Completion](https://open.spotify.com/show/4cpNj1nPOOygRMJ2Dm5UNs?si=fdcfb84814f9420f)
+   * [Launched](https://open.spotify.com/show/4lVKxKrG2n4pGYST801GLs?si=4fe14c101cf84aa5)
    * [More Than Just Code](https://mtjc.fireside.fm)
    * [Swiftly Speaking](https://podcasts.apple.com/us/podcast/swiftly-speaking/id1505697997)*
    * [Swift by Sundell Podcast](https://www.swiftbysundell.com/podcast/)*
